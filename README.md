@@ -5,7 +5,7 @@
 # DARKEY - THE VIDEO CALL SPOOFER
 *BUY FULL BODY VIDEO CALL SPOOFING AT $500. CONTACT ME VIA WHATSAPP--> 🇳🇱  +31 637639425* <br>
 *TESTING WILL BE DONE ONLY ON WHATSAPP*
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 <br>
 <hr>
 Welcome to Darkey Tools !!
@@ -43,6 +43,15 @@ participant_id = $_POST['participant_id'];
 background_image = $_POST['background_image'];
 spoofed_identity = $_POST['spoofed_identity'];
  ```
+
+4. License
+
+This project is licensed under the MIT License - see the  file for details.
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+
+
+
 
   3. **Documentation:**
 
