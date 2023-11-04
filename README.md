@@ -53,6 +53,6 @@ This project is licensed under the MIT License - see the  file for details.
 
 
 
-  3. **Documentation:**
+3. **Documentation:**
 
-     Explore our sending quality for in-depth information on usage, options, and best practices.
+Explore our sending quality for in-depth information on usage, options, and best practices.
