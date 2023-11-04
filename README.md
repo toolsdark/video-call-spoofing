@@ -46,7 +46,7 @@ spoofed_identity = $_POST['spoofed_identity'];
 
 4. License
 
-This project is licensed under the MIT License - see the  file for details.
+This project is licensed under the MIT License - see the  file for details. <br>
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
