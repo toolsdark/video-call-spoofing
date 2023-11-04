@@ -46,8 +46,3 @@ spoofed_identity = $_POST['spoofed_identity'];
   3. **Documentation:**
 
      Explore our sending quality for in-depth information on usage, options, and best practices.
-
-  ## License
-
-  This project is licensed under the MIT License - see the sppof-mail/LICENSE file for details.
-
