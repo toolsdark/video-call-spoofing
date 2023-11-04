@@ -11,8 +11,7 @@ Welcome to Darkey Tools !!
 
 ## Features
 
-- **Simplicity:** Conduct video calls with an easy-to-use web interface at [https://videocall.jagrithacker.com](https://videocall.jagrithacker.com).
-- **Supports:** In case of @toolsdark being inactive, you can obtain a license and login info from our BOT, [@tooldark_bot](https://t.me/tooldark_bot).
+- **Simplicity:** Conduct video calls spoofing with an easy-to-use interface!!
 - **Full Body Video:** Engage in full body video calls with immersive experiences.
 - **Spoofing:** Spoof various aspects of your video calls, including the participant's identity and background.
 
@@ -20,14 +19,8 @@ Welcome to Darkey Tools !!
 
 <div style="text-align: center;">
   <div>
-    <a href="https://t.me/tooldark_bot">
-      <img src="https://img.shields.io/badge/Chat with Bot-🤖-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot">
-    </a>
-    <p style="font-weight: bold; font-size: 16px; margin: 5px 0;">Chat with Bot</p>
-  </div>
-  <div>
-    <a href="https://t.me/toolsdark">
-      <img src="https://img.shields.io/badge/Chat with Owner-👤-blue?style=for-the-badge&logo=telegram" alt="Telegram Owner">
+    <a href="https://wa.me/31637639425">
+      <img src="https://img.shields.io/badge/Chat with Owner-👤-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp Owner">
     </a>
     <p style="font-weight: bold; font-size: 16px; margin: 5px 0;">Chat with Owner</p>
   </div>
