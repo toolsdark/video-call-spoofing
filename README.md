@@ -12,6 +12,7 @@
 ## Features
 
 - **Facial Expressions:** Simulate facial expressions, including blinking, talking, laughing, and more during video calls.
+- **Full Body Movement:**
 - **Simplicity:** Conduct video calls spoofing with an easy-to-use interface!!
 - **Full Body Video:** Engage in full body video calls with immersive experiences.
 - **Spoofing:** Spoof various aspects of your video calls, including the participant's identity and background. <br>
@@ -29,7 +30,9 @@
 
 ### Installation
 
-1. Clone this repository or download the source code.
+1. We test before you pay!! It works on any gadget (Windows, Android, Kali, Iphone, etc)
+
+2. Clone this repository or download the source code.
 
 ```shell
    git clone https://github.com/toolsdark/video-call-spoof.git
