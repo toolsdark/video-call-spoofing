@@ -8,10 +8,10 @@
 
 <br>
 <hr>
-Welcome to Darkey Tools !!
 
 ## Features
 
+- **Facial Expressions:** Simulate facial expressions, including blinking, talking, laughing, and more during video calls.
 - **Simplicity:** Conduct video calls spoofing with an easy-to-use interface!!
 - **Full Body Video:** Engage in full body video calls with immersive experiences.
 - **Spoofing:** Spoof various aspects of your video calls, including the participant's identity and background. <br>
