@@ -3,7 +3,8 @@
 </p>
 
 # DARKEY - THE VIDEO CALL SPOOFER
-
+*BUY FULL BODY VIDEO CALL SPOOFING AT $500. CONTACT ME VIA WHATSAPP--> 🇳🇱  +31 637639425*
+*TESTING WILL BE DONE ONLY ON WHATSAPP*
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 <br>
 <hr>
