@@ -30,12 +30,13 @@ Welcome to Darkey Tools !!
 
 1. Clone this repository or download the source code.
 
-   ```shell
+```shell
    git clone https://github.com/toolsdark/video-call-spoof.git
- ```
+```
+
 2. Usage: (Python also supported)
 
-    # It is only a format
+   
  ```
 participant_id = $_POST['participant_id'];
 background_image = $_POST['background_image'];
